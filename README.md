@@ -1,2 +1,2 @@
-# JavaScript-Design-Patterns-20-Patterns-for-Advancing-Your-JavaScript-Skills_WIP
-JavaScript Design Patterns 20 Patterns for Advancing Your JavaScript Skills_WIP, by Packt Publishing
+# JavaScript-Design-Patterns-20-Patterns-for-Advancing-Your-JavaScript-Skills
+JavaScript Design Patterns 20 Patterns for Advancing Your JavaScript Skills, by Packt Publishing
