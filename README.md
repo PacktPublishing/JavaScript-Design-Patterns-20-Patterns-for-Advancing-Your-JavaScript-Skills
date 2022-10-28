@@ -32,7 +32,3 @@ Latest Browser: Chrome, Firefox, Edge
 
 * [JavaScript Advanced - Useful Methods to Power Up your Code [Video]](https://www.packtpub.com/application-development/javascript-advanced-useful-methods-power-your-code-video?utm_source=github&utm_medium=repository&utm_campaign=9781838826987)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781785888014">https://packt.link/free-ebook/9781785888014 </a> </p>
